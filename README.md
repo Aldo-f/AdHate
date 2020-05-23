@@ -9,7 +9,7 @@ block ads everywhere
 
 # How to Use
 
-1. [Download AdHate.exe] (https://github.com/wc1202/AdHate/releases/latest)
+1. [Download AdHate.exe] (https://github.com/Aldo-f/AdHate/releases/latest)
 2. Open **AdHate.exe**
 3. Click "block"
 4. **☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆ Magic ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆**
